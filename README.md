@@ -42,7 +42,7 @@ You can also individually sponsor the project by <a href="https://www.playframew
   </a>
 </div>
 
-### Thank you to our premium sponsors!
+### Thank you to our premium sponsors! 
 
 <div align="center">
   <a href="https://informaticon.com/"><img src="https://www.playframework.com/assets/images/home/sponsors/49a3d5258c8e8b1daf5481eb9e00b898-informaticon-logo-black.png" width="250"></a>
